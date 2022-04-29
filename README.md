@@ -7,7 +7,6 @@ Industrial Engineer | Data Analyst
 I'm an engineer who started to code.
 
 * 🌍  I'm based in São Luís - MA.
-* 🖥️  See my portfolio at [GitHub](http://https://github.com/PedroAfornali)
 * ✉️  You can contact me at [pedro.afornali@gmail.com](mailto:pedro.afornali@gmail.com)
 * 🚀  I'm currently working on [Seazone](http://https://seazone.com.br/)
 
